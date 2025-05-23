@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yen</h1>
 <h3 align="center">A passionate developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yen-0" alt="yen-0" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://yen-0.github.io](https://yen-0.github.io)
 
